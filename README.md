@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://farrukhadeel67.github.io/](https://farrukhadeel67.github.io/)
 
-- 💬 Ask me about **Node JS , Express and JavaScript**
+- 💬 Ask me about **Node JS , Express, Mongo DB, MYSQL and JavaScript**
 
 - 📫 How to reach me **m.farrukhadeel@gmail.com**
 
