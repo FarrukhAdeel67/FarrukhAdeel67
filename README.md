@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/@zai_adeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zai_adeel" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/farrukh-adeel-807a4a201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farrukh adeel" height="30" width="40" /></a>
-<a href="https://fb.com/sahibzada farrukh adeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahibzada farrukh adeel" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010065787339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahibzada farrukh adeel" height="30" width="40" /></a>
 <a href="https://instagram.com/farrukh_adeel_67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farrukh_adeel_67" height="30" width="40" /></a>
 </p>
 
