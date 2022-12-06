@@ -5,7 +5,6 @@
 
 
 
-- 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at [https://farrukhadeel67.github.io/](https://farrukhadeel67.github.io/)
 
