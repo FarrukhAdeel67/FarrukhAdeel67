@@ -1,28 +1,81 @@
-<h1 align="center">Hi 👋, I'm Farrukh Adeel</h1>
-<h3>Welcome to my GitHub👋. </h3> 
-<h3 align="center">Happy to see you here! 😍
-The green dots on my GitHub profile represent my journey 🏃‍♂️. A passionate Full Stack developer from Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+## 👋 Welcome to my GitHub world, where innovation meets code - [Farrukh Adeel](https://github.com/farrukhadeel67/)
 
 
+![Farrukh Adeel](https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&pause=1000&color=F58A02&center=true&vCenter=true&width=435&lines=Full+Stack+Developer)
 
 
-
-- 👨‍💻 All of my projects are available at [https://farrukhadeel67.github.io/](https://farrukhadeel67.github.io/)
-
-- 💬 Ask me about ** React JS, Redux, Node JS, Express, MongoDB, Mongoose, MySQL, Sequelize and JavaScript.**
-
-- 📫 How to reach me **m.farrukhadeel@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@zai_adeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zai_adeel" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/farrukh-adeel-807a4a201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farrukh adeel" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010065787339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahibzada farrukh adeel" height="30" width="40" /></a>
-<a href="https://instagram.com/farrukh_adeel_67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farrukh_adeel_67" height="30" width="40" /></a>
+<p align="center"><br/>
+ <a href="https://www.linkedin.com/in/farrukh-adeel-807a4a201">
+  <img src="https://img.shields.io/badge/linkedin-Farrukh%20Adeel-blue?style=flat-square&logo=linkedin">
+ </a>
+ <a href="mailto:m.farrukhadeel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-m.farrukhadeel%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
+ </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🔭 Welcome to my GitHub👋, Happy to see you here! 😍
+- 🌱 To the world, I am a Full Stack Developer who believes on code for change.
+- ⚡The green dots on my GitHub profile represent my journey 🏃‍♂️. A passionate Full Stack developer from Pakistan.
+<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farrukhadeel67&show_icons=true&locale=en&layout=compact" alt="farrukhadeel67" /></p>
+Fuelled by an insatiable passion for the art of software craftsmanship, I unleash my creativity through elegant code, breathing life into extraordinary digital realms.
+<br>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairian&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
+![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=umairian&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umairian&theme=react&hide_border=false" alt="yensubldg" />
+<br>
+
+### 🛠️ Core Technologies
+<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![Node JS](https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logo=nodedotjs) 
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=nestjs) 
+![NEST JS](https://img.shields.io/badge/-Nest_JS-black?style=flat-square&logo=typescript)
+![Next JS](https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logo=nextdotjs) 
+![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
+![Redux](https://img.shields.io/badge/-React%20Redux-black?style=flat-square&logo=redux) 
+![React Query](https://img.shields.io/badge/-React%20Query-black?style=flat-square&logo=reactquery) 
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![GraphQL](https://img.shields.io/badge/-Graph%20QL-black?style=flat-square&logo=graphq) 
+![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha) 
+![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai) 
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) 
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Socket](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socketdotio)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-black?style=flat-square&logo=amazonaws)
+![Github Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter) 
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-black?style=flat-square&logo=scikitlearn)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) 
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy) 
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite) 
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red) 
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio) 
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) 
+
+<!--
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
