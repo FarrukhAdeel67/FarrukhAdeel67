@@ -14,7 +14,7 @@
 </p>
 
 - 🔭 Welcome to my GitHub👋, Happy to see you here! 😍
-- 🌱 To the world, I am a Full Stack Developer who believes on code for change.
+- 🌱 To the world, I am a Full Stack Engineer who believes on code for change.
 - ⚡The green dots on my GitHub profile represent my journey 🏃‍♂️. A passionate Full Stack developer from Pakistan.
 <br>
 
